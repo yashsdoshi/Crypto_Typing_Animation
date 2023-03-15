@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+body {
+    background-color: #2C3A47;
+    color: #ffd900;
+    font-family: 'Black Han Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh; /* Set height to 100vh to fill entire viewport */
+    margin: 0;
+  }
+  
+h1 {
+    font-size: 5rem;
+    text-align: center;
+    min-width: 300px;
+    width: 100%;
+    max-width: 100%;
+    min-height: 50px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 0; /* Remove default margin to ensure element is vertically centered */
+  }
+  
